@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+
+
+.pointer{
+    cursor: pointer;
+}
+
+
+h1, h2, h3 {
+    font-family: Roboto,"Helvetica Neue",sans-serif;
+    font-weight: normal;
+}
+
+
+table {
+    width: 100%;
+}
